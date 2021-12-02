@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>2021.12.1</Version>
+    <Authors>lcn</Authors>
+    <Company>元族</Company>
+    <Description>写工具的基本解析框架</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Autofac" Version="4.4.2" />
+  </ItemGroup>
+
+</Project>
