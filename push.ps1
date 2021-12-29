@@ -1,1 +1,1 @@
-dotnet nuget push Lcn.Cli.CoreBase.2021.12.1.nupkg --api-key oy2lxjlh332hlnjioytapsp7ow3dsigu7n6o6i2hlh5ovm --source https://api.nuget.org/v3/index.json
+dotnet nuget push Lcn.Cli.CoreBase.2021.12.1.nupkg --api-key 【秘钥】 --source https://api.nuget.org/v3/index.json
